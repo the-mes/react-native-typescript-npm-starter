@@ -1,8 +1,7 @@
-# native-layout-stack Changelog
+# React Native TypeScript npm starter Changelog
 
-## 1.0.0 (Soon)
+## 1.0.0 (2020-02-02)
 
 ### Features
 
-- added `Stack`, `Spacer` components
-- added `LayoutProvider`
+- added ``, `` components

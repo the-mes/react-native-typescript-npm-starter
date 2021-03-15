@@ -1,7 +1,7 @@
 {
-  "name": "native-layout-stack",
-  "version": "1.0.0-beta.4",
-  "description": "SwiftUI like layout management",
+  "name": "react-native-typescript-npm-starter",
+  "version": "1.0.0",
+  "description": "Template for React Native TypeScript library",
   "author": "Jakub Biesiada",
   "license": "MIT",
   "main": "lib/index.js",
@@ -20,31 +20,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/native-ly/native-layout-stack.git"
+    "url": "https://github.com/the-mes/react-native-typescript-npm-starter.git"
   },
   "keywords": [
-    "horizontal",
-    "vertical",
-    "grid",
-    "layout",
-    "stack",
-    "spacer",
+    "template",
+    "boilerplate",
+    "library",
+    "mobile",
+    "typescript",
     "react-native",
-    "library"
+    "component",
+    "starter",
+    "expo"
   ],
   "bugs": {
-    "url": "https://github.com/native-ly/native-layout-stack/issues"
+    "url": "https://github.com/the-mes/react-native-typescript-npm-starter/issues"
   },
-  "homepage": "https://github.com/native-ly/native-layout-stack#readme",
-  "dependencies": {
-    "randomcolor": "^0.6.2",
-    "react-safe-context-hooks": "^1.0.0"
-  },
+  "homepage": "https://github.com/the-mes/react-native-typescript-npm-starter#readme",
   "devDependencies": {
     "@testing-library/jest-native": "^3.4.3",
     "@testing-library/react-native": "^7.1.0",
     "@types/jest": "^26.0.20",
-    "@types/randomcolor": "^0.5.5",
     "@types/react": "^17.0.2",
     "@types/react-native": "^0.63.50",
     "@typescript-eslint/parser": "^4.15.1",
