@@ -12,9 +12,14 @@ module.exports = {
     jest: true,
   },
   rules: {
+    'react/prop-types': 'off',
+    // 'react-hooks/rules-of-hooks': 'error',
+    // 'react-hooks/exhaustive-deps': 'warn',
     'react-native/no-unused-styles': 'error',
     'react-native/split-platform-components': 'error',
-    'react/prop-types': 'off',
+    'react/jsx-uses-react': 'off',
+    'react/react-in-jsx-scope': 'off',
+    'react/display-name': 'off',
     'no-unused-vars': 'off',
   },
   parserOptions: {

@@ -4,4 +4,4 @@
 
 ### Features
 
-- added ``, `` components
+- added `HelloWorld` component
