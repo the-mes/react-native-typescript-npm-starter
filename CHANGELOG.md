@@ -4,4 +4,4 @@
 
 ### Features
 
-- added `HelloWorld` component
+- added the `HelloWorld` component
