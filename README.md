@@ -53,8 +53,7 @@ import { HelloWorld } from 'react-native-typescript-npm-starter'
 ```jsx
 import { HelloWorld } from 'react-native-typescript-npm-starter'
 
-// TODO consider export default?
-export const App = () => {
+const App = () => {
   return <HelloWorld text="Good Morning!" />
 }
 ```
