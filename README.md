@@ -34,7 +34,7 @@ yarn add react-native-typescript-npm-starter
 
 ## Getting Started
 
-**Connect the library to the project with ES6 Import:**
+**Connect the library to the project with ES6 import:**
 
 ```js
 import { HelloWorld } from 'react-native-typescript-npm-starter'
