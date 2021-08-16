@@ -1,11 +1,11 @@
 # [React Native TypeScript npm starter](https://github.com/the-mes/react-native-typescript-npm-starter)
 
-[![NPM version](https://img.shields.io/npm/v/react-native-typescript-npm-starter?style=flat-square)](https://www.npmjs.com/package/react-native-typescript-npm-starter)
-[![NPM downloads](https://img.shields.io/npm/dm/react-native-typescript-npm-starter?style=flat-square)](https://www.npmjs.com/package/react-native-typescript-npm-starter)
-[![NPM license](https://img.shields.io/npm/l/react-native-typescript-npm-starter?style=flat-square)](https://www.npmjs.com/package/react-native-typescript-npm-starter)
-[![run in expo snack](https://img.shields.io/badge/Run%20in%20Snack-4630EB?style=flat-square&logo=EXPO&labelColor=FFF&logoColor=000)](https://snack.expo.io/the-mes/react-native-typescript-npm-starter)
-[![Codecov](https://img.shields.io/codecov/c/github/the-mes/react-native-typescript-npm-starter?style=flat-square)](https://codecov.io/gh/the-mes/react-native-typescript-npm-starter)
-[![Travis](https://img.shields.io/travis/com/the-mes/react-native-typescript-npm-starter/main?style=flat-square)](https://travis-ci.com/the-mes/react-native-typescript-npm-starter)
+[![NPM version](https://flat.badgen.net/npm/v/react-native-typescript-npm-starter)](https://www.npmjs.com/package/react-native-typescript-npm-starter)
+[![NPM downloads](https://flat.badgen.net/npm/dm/react-native-typescript-npm-starter)](https://www.npmjs.com/package/react-native-typescript-npm-starter)
+[![NPM license](https://flat.badgen.net/npm/license/react-native-typescript-npm-starter)](https://www.npmjs.com/package/react-native-typescript-npm-starter)
+[![Codecov](https://flat.badgen.net/codecov/c/github/the-mes/react-native-typescript-npm-starter)](https://codecov.io/gh/the-mes/react-native-typescript-npm-starter)
+[![Travis](https://flat.badgen.net/travis/the-mes/react-native-typescript-npm-starter)](https://travis-ci.com/the-mes/react-native-typescript-npm-starter)
+[![Bundle size](https://flat.badgen.net/packagephobia/install/react-native-typescript-npm-starter)](https://packagephobia.com/result?p=react-native-typescript-npm-starter)
 
 <!-- TODO packagephobia -->
 
