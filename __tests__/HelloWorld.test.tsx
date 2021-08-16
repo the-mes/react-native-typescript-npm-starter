@@ -7,16 +7,16 @@ import { HelloWorld } from '../src'
 
 describe('HelloWorld', () => {
   it('should render component with default message', () => {
-    const { getByText, debug } = render(<HelloWorld />)
-
-    debug()
+    const { getByText, toJSON } = render(<HelloWorld />)
 
     expect(getByText('Hello')).toBeDefined()
+    expect(toJSON()).toMatchSnapshot()
   })
 
   it('should render component with custom message', () => {
-    const { getByText } = render(<HelloWorld text="Good Morning!" />)
+    const { getByText, toJSON } = render(<HelloWorld text="Good Morning!" />)
 
     expect(getByText('Good Morning!')).toBeDefined()
+    expect(toJSON()).toMatchSnapshot()
   })
 })
