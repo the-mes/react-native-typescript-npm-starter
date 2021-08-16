@@ -8,8 +8,6 @@
 [![Travis](https://flat.badgen.net/travis/the-mes/react-native-typescript-npm-starter)](https://travis-ci.com/the-mes/react-native-typescript-npm-starter)
 [![Bundle size](https://flat.badgen.net/packagephobia/install/react-native-typescript-npm-starter)](https://packagephobia.com/result?p=react-native-typescript-npm-starter)
 
-<!-- TODO packagephobia -->
-
 ## About
 
 Template for React Native TypeScript library
