@@ -55,6 +55,8 @@ import { HelloWorld } from 'react-native-typescript-npm-starter'
 const App = () => {
   return <HelloWorld text="Good Morning!" />
 }
+
+export default App
 ```
 
 ## License
