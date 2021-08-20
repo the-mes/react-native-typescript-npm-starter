@@ -50,6 +50,7 @@ import { HelloWorld } from 'react-native-typescript-npm-starter'
 ## Example
 
 ```jsx
+import React from 'react'
 import { HelloWorld } from 'react-native-typescript-npm-starter'
 
 const App = () => {
