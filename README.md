@@ -5,7 +5,7 @@
 [![NPM license](https://flat.badgen.net/npm/license/react-native-typescript-npm-starter)](https://www.npmjs.com/package/react-native-typescript-npm-starter)
 [![run in expo snack](https://img.shields.io/badge/Run%20in%20Snack-4630EB?style=flat-square&logo=EXPO&labelColor=FFF&logoColor=000)](https://snack.expo.io/the-mes/react-native-typescript-npm-starter)
 [![Codecov](https://flat.badgen.net/codecov/c/github/the-mes/react-native-typescript-npm-starter)](https://codecov.io/gh/the-mes/react-native-typescript-npm-starter)
-[![Travis](https://flat.badgen.net/travis/the-mes/react-native-typescript-npm-starter)](https://travis-ci.com/the-mes/react-native-typescript-npm-starter)
+[![Travis](https://flat.badgen.net/travis/the-mes/react-native-typescript-npm-starter)](https://app.travis-ci.com/github/the-mes/react-native-typescript-npm-starter)
 [![Bundle size](https://flat.badgen.net/packagephobia/install/react-native-typescript-npm-starter)](https://packagephobia.com/result?p=react-native-typescript-npm-starter)
 
 ## About
