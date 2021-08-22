@@ -43,7 +43,9 @@ import { HelloWorld } from 'react-native-typescript-npm-starter'
 
 ### HelloWorld
 
-| **name** | **type** | **description**            |
+<!-- TODO add defaults, available options -->
+
+| **Name** | **Type** | **Description**            |
 | -------- | -------- | -------------------------- |
 | text     | string   | Custom Hello World message |
 
